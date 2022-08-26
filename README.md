@@ -35,6 +35,6 @@ Users should be able to:
 ## Author
 
 - Website - [Max Ralph](https://www.max-ralph.com)
-- Frontend Mentor - [@maxralph](https://www.frontendmentor.io/profile/maxralph)
+- Frontend Mentor - [@maxralph002](https://www.frontendmentor.io/profile/maxralph)
 - Twitter - [@jsuis_maxralph](https://www.twitter.com/yourusername)
 
