@@ -133,6 +133,10 @@ body {
    max-width: 600px;
    text-align: start;
   }
+ 
+  .card .image {
+   width: 100%;
+  }
 
   .card .image img {
    border-radius: 0 5px 5px 0;
