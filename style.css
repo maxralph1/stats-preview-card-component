@@ -128,17 +128,18 @@ body {
 
   .card {
    border-radius: 5px 0 0 5px;
-   display: flex;
-   flex-direction: row-reverse;
-   /* display: grid;
-   grid-template-columns: repeat(2, 1fr); */
-   max-width: 600px;
+   /* display: flex;
+   flex-direction: row-reverse; */
+   display: grid;
+   grid-template-columns: repeat(2, 1fr);
+   max-width: 520px;
+   max-height: 220px;
    text-align: start;
   }
- 
+
   .card .image {
    width: 100%;
-   /* order: 2; */
+   order: 2;
   }
 
   .card .image img {
@@ -155,7 +156,7 @@ body {
   .card .texts {
    font-family: 'Lexend Deca', sans-serif;
    padding: 2rem;
-   /* order: 1; */
+   order: 1;
   }
 
   .card .texts .stats {
@@ -191,4 +192,3 @@ body {
  color: var(--transparent-white-2); 
  opacity: 0.5;
 }
-
